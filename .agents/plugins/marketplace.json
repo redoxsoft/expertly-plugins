@@ -1,0 +1,17 @@
+{
+  "name": "expertly",
+  "plugins": [
+    {
+      "name": "expertly",
+      "source": {
+        "source": "local",
+        "path": "./plugins/expertly"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_USE"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

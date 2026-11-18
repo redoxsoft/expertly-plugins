@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "expertly": {
+      "type": "http",
+      "url": "https://expertly-mcp.redoxsoft.com/mcp"
+    }
+  }
+}

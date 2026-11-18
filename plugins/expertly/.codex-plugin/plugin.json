@@ -1,0 +1,16 @@
+{
+  "name": "expertly",
+  "version": "0.1.0",
+  "description": "Bring a team of named experts into your AI assistant. Say /expertly or \"Hey Expertly\" to plan, review, and build with guided, step-by-step help.",
+  "author": {
+    "name": "Redoxsoft",
+    "url": "https://expertly.redoxsoft.com"
+  },
+  "homepage": "https://expertly.redoxsoft.com",
+  "skills": "./skills/",
+  "mcpServers": "./.codex-mcp.json",
+  "interface": {
+    "displayName": "Expertly",
+    "shortDescription": "A team of named experts"
+  }
+}

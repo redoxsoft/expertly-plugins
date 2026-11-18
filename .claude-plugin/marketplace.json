@@ -1,0 +1,19 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "expertly",
+  "description": "Expertly: a team of named experts inside your AI assistant.",
+  "owner": {
+    "name": "Redoxsoft",
+    "url": "https://expertly.redoxsoft.com"
+  },
+  "plugins": [
+    {
+      "name": "expertly",
+      "source": "./plugins/expertly",
+      "description": "Bring a team of named experts into your AI assistant. Say /expertly or \"Hey Expertly\" to plan, review, and build with guided, step-by-step help.",
+      "version": "0.1.0",
+      "category": "productivity",
+      "homepage": "https://expertly.redoxsoft.com"
+    }
+  ]
+}
